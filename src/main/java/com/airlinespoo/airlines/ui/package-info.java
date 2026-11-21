@@ -1,5 +1,5 @@
 /**
- * Módulo 3 (Aerolíneas) · Capa de interfaz de consola.
- * Menú del módulo y carga de datos de ejemplo.
+ * Módulo 3 (Aerolíneas) · Menú de consola.
+ * Permite registrar, consultar, buscar, renombrar y eliminar aerolíneas.
  */
 package com.airlinespoo.airlines.ui;
